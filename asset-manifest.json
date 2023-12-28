@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-saver/static/css/main.3c35d522.css",
+    "main.js": "/contact-saver/static/js/main.9a9ffc6b.js",
+    "static/js/787.2a76be3c.chunk.js": "/contact-saver/static/js/787.2a76be3c.chunk.js",
+    "index.html": "/contact-saver/index.html",
+    "main.3c35d522.css.map": "/contact-saver/static/css/main.3c35d522.css.map",
+    "main.9a9ffc6b.js.map": "/contact-saver/static/js/main.9a9ffc6b.js.map",
+    "787.2a76be3c.chunk.js.map": "/contact-saver/static/js/787.2a76be3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c35d522.css",
+    "static/js/main.9a9ffc6b.js"
+  ]
+}
